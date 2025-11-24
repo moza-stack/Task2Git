@@ -1,5 +1,13 @@
+Table 1:
+Monday: Team Meeting and Planning
+Tuesday: Frontend Development
+Wednesday: Backend Development
+Thursday: Integration Testing
+Friday: Code Review and Deployment
+
+Table 2:
 Monday: Team Meeting
-Tuesday: Development
-Wednesday: Development
+Tuesday-Wednesday: Development Sprint
 Thursday: Testing
 Friday: Review
+
